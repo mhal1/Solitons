@@ -7,11 +7,17 @@ Figure 1a. Set only plotsoliton = True in the beginning of the code, and enter p
 
 Figure 1b. Set only plotsoliton = True in the beginning of the code, and enter parameters (3.0,1,0.3). Set dx = 0.1. (Time~few seconds).
 
+![alt text](https://github.com/mhal1/Solitons/blob/master/solitonprop.png?raw=true)
+
 Figure 2a. Set only plotcmap = True, parameters (0.6,30). Set dx = 0.15. (Time~few seconds).
 
 Figure 2b. Set only plotcmap = True, parameters (1.0,30). Set dx = 0.15. (Time~few seconds).
 
+![alt text](https://github.com/mhal1/Solitons/blob/master/solpropheat.png?raw=true)
+
 Figure 3. Set only velplot = True. Set dx = 0.05. (Time~1 minute).
+
+![alt text](https://github.com/mhal1/Solitons/blob/master/solvelheight.png?raw=true)
 
 Figure 4a. Set only stabilityplot = True in the beginning of the code, and enter parameters alpha = 0.05 in beginning of code. (Time~few minutes (< 10 minutes)).
 
@@ -19,11 +25,17 @@ Figure 4b. Set only stabilityplot = True in the beginning of the code, and enter
 
 Figure 4c. Set only stabilityplot = True in the beginning of the code, and enter parameters alpha = 9.0 in beginning of code. (Time~few minutes (< 10 minutes)).
 
+![alt text](https://github.com/mhal1/Solitons/blob/master/stability.png?raw=true)
+
 Figure 5a. Set only plotcmapcol = True in the beginning of the code, and enter parameters umapcol(1.0,1.2,30). Set dx = 0.15. (Time~few seconds).
 
 Figure 5b. Set only plotcmapcol = True in the beginning of the code, and enter parameters umapcol(1.0,2.2,30). Set dx = 0.15. (Time~few seconds).
 
+![alt text](https://github.com/mhal1/Solitons/blob/master/Solitoncol.png?raw=true)
+
 Figure 6. Set only wave break = True in beginning of code. and enter parameters wavebreakplot(20,2). Set dx = 0.15. (Time~few seconds).
+
+![alt text](https://github.com/mhal1/Solitons/blob/master/wavebreaking.png?raw=true)
 
 Figure 7. Set sine wave period 10 in s() s function, then run like figure 6.
 
@@ -31,7 +43,11 @@ Figure 8. Set only plotcmapwb = True, set alpha = 1.0,plotcmapwb(60). (Time~1 mi
 
 Figure 9a. Set only shockwave = True, set alpha = 1.0,  shockwaveplot(50,2). i += 5. (Time~1 minute).
 
+![alt text](https://github.com/mhal1/Solitons/blob/master/solshockwave.png?raw=true)
+
 Figure 9b. Set diff = True, plotdiff = False, set alpha = 1.0,  shockwaveplotdiff(40,0.2). i += 40. (Time~1 minute).
+
+![alt text](https://github.com/mhal1/Solitons/blob/master/diffusion.png?raw=true)
 
 Figure 10. notdiff = True, arguments umap(1.0,40,np.arange(0,60,dx) in line 803. (Time~few seconds).
 
