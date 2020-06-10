@@ -1,6 +1,6 @@
 # Solitons
 
-Discretised Korteweg de Vries partial differential equation using finite difference methods. Implemented Runge-Kutta 4th order forward difference scheme to evolve system. Investigated stability of numerical solutions, wave-breaking and collisions between Solitons.
+Discretised Korteweg de Vries partial differential equation using finite difference methods. Implemented Runge-Kutta 4th order forward difference scheme to evolve system. Investigated stability of numerical solutions, wave-breaking and collisions between Solitons. See report 'Solitons.pdf' for full analysis of the below.
 
 I used the python 3.6.4 program IDLE run on macOS Mojave version 10.14 for this project. Python is a very readable language and it is also very diverse in its functions especially for scientific programming. My coding style is more to allow what is being done to be clear to the user which is why I constantly use while loops due to the intuitiveness of counters, this is also the reason for me using nested lists. I prefer to have my plots next to where the data is produced for ease of understanding.
 
